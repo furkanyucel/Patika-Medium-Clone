@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: ;
+  box-sizing: border-box;
+}
+
+body, html{
+  font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.nav-bg{
+  background-color: #ffc017;
+}
+
+.bb-dark{
+  border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
