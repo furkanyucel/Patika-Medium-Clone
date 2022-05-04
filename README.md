@@ -2,7 +2,7 @@
 Bu repo [Patika](http://www.patika.dev) sitesi bootstrap eğitimi Medium clone çalışması için oluşturulmuştur.
 
 
-# Ekran Görüntüleri
+## Ekran Görüntüleri
 
 ## Anasayfa
 ![anasayfa 1](screenshot/1.png)
